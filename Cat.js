@@ -1,5 +1,3 @@
-function Cat(){
+function addCat(){
 
 }
-
-module.export = Cat;
